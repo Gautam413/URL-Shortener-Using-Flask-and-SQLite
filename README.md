@@ -63,6 +63,9 @@ python app.py
 The app will be available at `http://127.0.0.1:5000/`
 
 ---
+## Feedback
+Feel free to [open an issue](https://github.com/Gautam413/URL-Shortener-Using-Flask-and-SQLite/issues) .
 
+---
 ## License
 This project is licensed under the MIT License.
